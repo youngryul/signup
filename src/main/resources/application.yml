@@ -1,0 +1,9 @@
+server :
+ port : 9091
+ devtools:
+  livereload :
+   enabled: true
+  restart:
+    enabled: true
+  thymeleaf:
+    cache: false
